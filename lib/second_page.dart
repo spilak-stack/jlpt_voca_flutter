@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:jlpt241218/word_list_page.dart';
 import 'app_theme.dart';
-import 'watarfill.dart';
 import 'package:jlpt241218/word_quiz_page.dart';
 import 'json_control.dart';
 
@@ -77,23 +76,27 @@ class _SecondPageState extends State<SecondPage> with RouteAware {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            WaterFillElevatedButton(
-                width: 200,
-                height: 100,
-                progress: _progress, // 상태 변수 사용
-                text: '단어 퀴즈',
-                onPressed: () async {
-                  // Navigator.push()에서 await를 사용하여 WordQuizPage의 결과를 기다립니다.
-                  final result = await Navigator.push(
-                      context,
-                      MaterialPageRoute(
-                          builder: (context) => WordQuizPage(n: widget.n)));
+            ElevatedButton(
+              onPressed: () async {
+                // Navigator.push()에서 await를 사용하여 WordQuizPage의 결과를 기다립니다.
+                final result = await Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                        builder: (context) => WordQuizPage(n: widget.n)));
 
-                  // WordQuizPage에서 pop(context, true)로 돌아온 경우, result는 true가 됩니다.
-                  if (result == true) {
-                    _loadData(); // 데이터 다시 로드 및 상태 업데이트
-                  }
-                }),
+                // WordQuizPage에서 pop(context, true)로 돌아온 경우, result는 true가 됩니다.
+                if (result == true) {
+                  _loadData(); // 데이터 다시 로드 및 상태 업데이트
+                }
+              },
+              style: ElevatedButton.styleFrom(
+                  fixedSize: Size(200, 100),
+                  textStyle: TextStyle(fontSize: 30),
+                  shape: RoundedRectangleBorder(
+                      borderRadius: BorderRadius.all(Radius.circular(10))),
+                  elevation: 5),
+              child: const Text("단어 퀴즈"),
+            ),
             SizedBox(height: 50),
             ElevatedButton(
               onPressed: () async {
