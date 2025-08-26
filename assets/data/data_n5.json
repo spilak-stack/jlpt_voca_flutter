@@ -1,0 +1,406 @@
+[
+    {
+        "ID": 1,
+        "ID2": 25,
+        "Word": "愛",
+        "Furigana": "あい",
+        "Meaning": "사랑",
+        "Kanji": [
+            "愛"
+        ],
+        "Pass": 0,
+        "Bookmark": 0
+    },
+    {
+        "ID": 2,
+        "ID2": 4,
+        "Word": "合図",
+        "Furigana": "あいず",
+        "Meaning": "신호",
+        "Kanji": [
+            "合",
+            "図"
+        ],
+        "Pass": 0,
+        "Bookmark": 0
+    },
+    {
+        "ID": 3,
+        "ID2": 5,
+        "Word": "相手",
+        "Furigana": "あいて",
+        "Meaning": "상대",
+        "Kanji": [
+            "相",
+            "手"
+        ],
+        "Pass": 0,
+        "Bookmark": 0
+    },
+    {
+        "ID": 4,
+        "ID2": 11,
+        "Word": "赤ん坊",
+        "Furigana": "あかんぼう",
+        "Meaning": "갓난아기",
+        "Kanji": [
+            "赤",
+            "坊"
+        ],
+        "Pass": 0,
+        "Bookmark": 0
+    },
+    {
+        "ID": 5,
+        "ID2": 28,
+        "Word": "空き地",
+        "Furigana": "あきち",
+        "Meaning": "공터",
+        "Kanji": [
+            "空",
+            "地"
+        ],
+        "Pass": 0,
+        "Bookmark": 0
+    },
+    {
+        "ID": 6,
+        "ID2": 20,
+        "Word": "握手",
+        "Furigana": "あくしゅ",
+        "Meaning": "악수",
+        "Kanji": [
+            "握",
+            "手"
+        ],
+        "Pass": 0,
+        "Bookmark": 0
+    },
+    {
+        "ID": 7,
+        "ID2": 6,
+        "Word": "あくび",
+        "Furigana": "あくび",
+        "Meaning": "하품",
+        "Kanji": [],
+        "Pass": 0,
+        "Bookmark": 0
+    },
+    {
+        "ID": 8,
+        "ID2": 2,
+        "Word": "朝日",
+        "Furigana": "あさひ",
+        "Meaning": "아침 해",
+        "Kanji": [
+            "朝",
+            "日"
+        ],
+        "Pass": 0,
+        "Bookmark": 0
+    },
+    {
+        "ID": 9,
+        "ID2": 16,
+        "Word": "足跡",
+        "Furigana": "あしあと",
+        "Meaning": "발자국",
+        "Kanji": [
+            "足",
+            "跡"
+        ],
+        "Pass": 0,
+        "Bookmark": 0
+    },
+    {
+        "ID": 10,
+        "ID2": 32,
+        "Word": "味見",
+        "Furigana": "あじみ",
+        "Meaning": "맛보기",
+        "Kanji": [
+            "味",
+            "見"
+        ],
+        "Pass": 0,
+        "Bookmark": 0
+    },
+    {
+        "ID": 11,
+        "ID2": 24,
+        "Word": "足元",
+        "Furigana": "あしもと",
+        "Meaning": "발밑",
+        "Kanji": [
+            "足",
+            "元"
+        ],
+        "Pass": 0,
+        "Bookmark": 0
+    },
+    {
+        "ID": 12,
+        "ID2": 15,
+        "Word": "当たり前",
+        "Furigana": "あたりまえ",
+        "Meaning": "당연",
+        "Kanji": [
+            "当",
+            "前"
+        ],
+        "Pass": 0,
+        "Bookmark": 0
+    },
+    {
+        "ID": 13,
+        "ID2": 18,
+        "Word": "悪化",
+        "Furigana": "あっか",
+        "Meaning": "악화",
+        "Kanji": [
+            "悪",
+            "化"
+        ],
+        "Pass": 0,
+        "Bookmark": 0
+    },
+    {
+        "ID": 14,
+        "ID2": 9,
+        "Word": "集まり",
+        "Furigana": "あつまり",
+        "Meaning": "모임",
+        "Kanji": [
+            "集"
+        ],
+        "Pass": 0,
+        "Bookmark": 0
+    },
+    {
+        "ID": 15,
+        "ID2": 13,
+        "Word": "あて先",
+        "Furigana": "あてさき",
+        "Meaning": "수신자",
+        "Kanji": [
+            "先"
+        ],
+        "Pass": 0,
+        "Bookmark": 0
+    },
+    {
+        "ID": 16,
+        "ID2": 27,
+        "Word": "穴",
+        "Furigana": "あな",
+        "Meaning": "구멍",
+        "Kanji": [
+            "穴"
+        ],
+        "Pass": 0,
+        "Bookmark": 0
+    },
+    {
+        "ID": 17,
+        "ID2": 1,
+        "Word": "油",
+        "Furigana": "あぶら",
+        "Meaning": "기름",
+        "Kanji": [
+            "油"
+        ],
+        "Pass": 0,
+        "Bookmark": 0
+    },
+    {
+        "ID": 18,
+        "ID2": 21,
+        "Word": "雨戸",
+        "Furigana": "あまど",
+        "Meaning": "덧문",
+        "Kanji": [
+            "雨",
+            "戸"
+        ],
+        "Pass": 0,
+        "Bookmark": 0
+    },
+    {
+        "ID": 19,
+        "ID2": 22,
+        "Word": "網戸",
+        "Furigana": "あみど",
+        "Meaning": "방충망",
+        "Kanji": [
+            "網",
+            "戸"
+        ],
+        "Pass": 0,
+        "Bookmark": 0
+    },
+    {
+        "ID": 20,
+        "ID2": 8,
+        "Word": "泡",
+        "Furigana": "あわ",
+        "Meaning": "거품",
+        "Kanji": [
+            "泡"
+        ],
+        "Pass": 0,
+        "Bookmark": 0
+    },
+    {
+        "ID": 21,
+        "ID2": 26,
+        "Word": "暗記",
+        "Furigana": "あんき",
+        "Meaning": "암기",
+        "Kanji": [
+            "暗",
+            "記"
+        ],
+        "Pass": 0,
+        "Bookmark": 0
+    },
+    {
+        "ID": 22,
+        "ID2": 14,
+        "Word": "言い訳",
+        "Furigana": "いいわけ",
+        "Meaning": "변명",
+        "Kanji": [
+            "言",
+            "訳"
+        ],
+        "Pass": 0,
+        "Bookmark": 0
+    },
+    {
+        "ID": 23,
+        "ID2": 31,
+        "Word": "怒り",
+        "Furigana": "いかり",
+        "Meaning": "분노",
+        "Kanji": [
+            "怒"
+        ],
+        "Pass": 0,
+        "Bookmark": 0
+    },
+    {
+        "ID": 24,
+        "ID2": 29,
+        "Word": "息",
+        "Furigana": "いき",
+        "Meaning": "숨",
+        "Kanji": [
+            "息"
+        ],
+        "Pass": 0,
+        "Bookmark": 0
+    },
+    {
+        "ID": 25,
+        "ID2": 10,
+        "Word": "意義",
+        "Furigana": "いぎ",
+        "Meaning": "의의",
+        "Kanji": [
+            "意",
+            "義"
+        ],
+        "Pass": 0,
+        "Bookmark": 0
+    },
+    {
+        "ID": 26,
+        "ID2": 7,
+        "Word": "勢い",
+        "Furigana": "いきおい",
+        "Meaning": "기세",
+        "Kanji": [
+            "勢"
+        ],
+        "Pass": 0,
+        "Bookmark": 0
+    },
+    {
+        "ID": 27,
+        "ID2": 3,
+        "Word": "生き物",
+        "Furigana": "いきもの",
+        "Meaning": "생물",
+        "Kanji": [
+            "生",
+            "物"
+        ],
+        "Pass": 0,
+        "Bookmark": 0
+    },
+    {
+        "ID": 28,
+        "ID2": 19,
+        "Word": "育児",
+        "Furigana": "いくじ",
+        "Meaning": "육아",
+        "Kanji": [
+            "育",
+            "児"
+        ],
+        "Pass": 0,
+        "Bookmark": 0
+    },
+    {
+        "ID": 29,
+        "ID2": 17,
+        "Word": "以後",
+        "Furigana": "いご",
+        "Meaning": "이후",
+        "Kanji": [
+            "以",
+            "後"
+        ],
+        "Pass": 0,
+        "Bookmark": 0
+    },
+    {
+        "ID": 30,
+        "ID2": 12,
+        "Word": "以降",
+        "Furigana": "いこう",
+        "Meaning": "~이후",
+        "Kanji": [
+            "以",
+            "降"
+        ],
+        "Pass": 0,
+        "Bookmark": 0
+    },
+    {
+        "ID": 31,
+        "ID2": 30,
+        "Word": "意思",
+        "Furigana": "いし",
+        "Meaning": "의사",
+        "Kanji": [
+            "意",
+            "思"
+        ],
+        "Pass": 0,
+        "Bookmark": 0
+    },
+    {
+        "ID": 32,
+        "ID2": 23,
+        "Word": "医師",
+        "Furigana": "いし",
+        "Meaning": "의사",
+        "Kanji": [
+            "医",
+            "師"
+        ],
+        "Pass": 0,
+        "Bookmark": 0
+    }
+]
